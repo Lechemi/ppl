@@ -18,4 +18,3 @@
 ; 3) In any other case, return the list made of the first element + the rest of the list.
 
 (flatten-list l1)
-  
